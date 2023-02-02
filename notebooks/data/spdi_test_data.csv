@@ -1,0 +1,6 @@
+﻿RefSeq,Position,Reference,Alternate
+NG_012345.1,4,1,T
+NG_012345.1,4,1,
+NG_012345.1,4,0,T
+NG_012345,,0,T
+NC_000010.11,87925523,C,G
